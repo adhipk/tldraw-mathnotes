@@ -71,6 +71,7 @@ Since we use Sympy for evaluation, most operations are supported.
 - Faster OCR for realtime processing.
 - Multiline Inputs.
 - Definite Integrals (OCR does not properly parse boundary conditions).
+- Pretty Print Latex Results.
 
 ## Tech Stack
 
